@@ -5,11 +5,11 @@ class Solution:
         :rtype: bool
         """
         return str(x) == str(x)[::-1]
-    
+     
 # Test case 1
 # Input: 121
 # Output: true
-# Expected: true
+# Expected: true 
 
 
 # Test case 2
