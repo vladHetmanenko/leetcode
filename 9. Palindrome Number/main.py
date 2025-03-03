@@ -5,7 +5,9 @@ class Solution:
         :rtype: bool
         """
         return str(x) == str(x)[::-1]
-     
+
+# https://leetcode.com/problems/palindrome-number/
+
 # Test case 1
 # Input: 121
 # Output: true
